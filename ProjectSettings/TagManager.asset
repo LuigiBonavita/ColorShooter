@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Muro
   - Nemico
+  - Proiettile
   layers:
   - Default
   - TransparentFX
